@@ -1,0 +1,11 @@
+Package: Lavanya
+Type: Package
+Title: Area of a square
+Version: 0.0.1
+Author: person("Lavanya", "Pothapu")
+Maintainer: h20220817@pilani.bits-pilani.ac.in
+Description: This package provides functions to perform operation such as mode identification, standardization & normalization on R vectors
+Depends: R (>= 3.1.0)
+License: GNU General Public License v3.0
+RoxygenNote: 7.2.2
+Encoding: UTF-8
